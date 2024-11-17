@@ -1,6 +1,16 @@
 Hi, I'm Doctor Undefined 👋
 
-Software engineer since 2008, always been fascinated by how technology can blend with music, filmmaking, and now AI. It's all part of the journey!
+Software engineer since 2008. Always been fascinated by how technology can blend with music and filmmaking.
+
+## Favourite Tools
+### Frontend Development
+React / React Native, Next.js, Remix
+
+### Backend Development
+Node.js, GraphQL
+
+### DevOps & Cloud
+AWS, Google Cloud / Firebase
 
 ---
 
